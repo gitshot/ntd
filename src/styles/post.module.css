@@ -64,3 +64,15 @@
 .postContent {
   position: relative;
 }
+
+strong {
+  font-weight: 900;
+}
+
+ol li {
+  margin-bottom: 30px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
